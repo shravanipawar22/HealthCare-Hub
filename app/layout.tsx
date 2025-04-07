@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'HealthCare Hub',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Created',
+  generator: '',
 }
 
 export default function RootLayout({
